@@ -16,7 +16,7 @@ You can also find my GitHub here: https://github.com/GregBND/WebHomework
 ![Alt text](Images/originalwebsite.png "OriginalWebsite")
 
 **My front page:**
-
+![Alt text](Images/frontpage.png "frontpage")
 The website is developed with Bootstrap framework, you can see on the left my both videos. The
 first one (you can’t see it from my screenshot, but you can see it directly on my website) is from
 YouTube, and the second one is from my own folder.
@@ -26,19 +26,19 @@ association and the link to the original website.
 
 
 **My second page:**
-
+![Alt text](Images/secondpage.png "secondpage")
 
 **My image gallery:**
-
+![Alt text](Images/imagegallery.png "imagegallery")
 You can see my image gallery here with all images in my website folder are automatically added on
 this page. And you can upload your own images with the upload functionality on the left of the page.
 
 
 **My fourth page :**
-
+![Alt text](Images/fourthpage.png "fourthpage")
 You can see here some text with some links inside.
 
 
 **Contact page:**
-
+![Alt text](Images/contactpage.png "contactpage")
 Here you can see the contact page, and on the left the google maps address.
